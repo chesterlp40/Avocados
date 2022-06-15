@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-// MARK: - HEADER DATA
+// MARK: - FACT DATA
 
 let factsData: [Fact] = [
     Fact(

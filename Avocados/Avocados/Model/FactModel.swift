@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-// MARK: - Fact MODEL
+// MARK: - FACT MODEL
 
 struct Fact: Identifiable {
     var id = UUID()
